@@ -1,0 +1,19 @@
+h1 {
+  text-align: center;
+  text-decoration: underline;
+}
+h2 {
+  text-decoration: underline;
+}
+p {
+  font-size: larger;
+}
+li {
+  font-size: x-large;
+}
+img {
+  width: 70ch;
+}
+body {
+  background-color: darkorange;
+}
